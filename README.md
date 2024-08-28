@@ -11,8 +11,8 @@ Este documento descreve os requisitos funcionais e não funcionais para o desenv
 - RF03: O sistema deve permitir a pesquisa de conteúdo por palavras-chave e categorias.
 
  2.2. Planos de Treino Personalizados
-- **RF04**: O sistema deve permitir que usuários criem e salvem planos de treino personalizados.
-- **RF05**: O sistema deve fornecer planos de treino recomendados com base nos objetivos do usuário (ex.: hipertrofia, emagrecimento).
+- RF04: O sistema deve permitir que usuários criem e salvem planos de treino personalizados.
+- RF05: O sistema deve fornecer planos de treino recomendados com base nos objetivos do usuário (ex.: hipertrofia, emagrecimento).
 - RF06: O sistema deve permitir que o usuário registre o progresso dos treinos (ex.: peso levantado, repetições, séries).
 
  2.3. Interação com Usuários
@@ -28,8 +28,8 @@ Este documento descreve os requisitos funcionais e não funcionais para o desenv
  2.5. Conteúdo Premium
 - RF13: O sistema deve oferecer a possibilidade de assinaturas para acesso a conteúdos exclusivos (ex.: vídeos de especialistas, planos de treino avançados).
 - RF14: O sistema deve integrar com gateways de pagamento para processar assinaturas e pagamentos de conteúdos premium.
-
-#\ 3. Requisitos Não Funcionais
+ 
+ 3. Requisitos Não Funcionais
 
  3.1. Desempenho
 - RNF01: O sistema deve carregar páginas de conteúdo em no máximo 3 segundos.
